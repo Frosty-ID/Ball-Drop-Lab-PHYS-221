@@ -21,4 +21,4 @@ $$
 Where:
 - \( t \) is the theoretical time.
 - \( h \) is the height from which the ball is dropped.
-- \( g \) is the acceleration due to gravity, ( 9.81 meters / seconds  ).
+- \( g \) is the acceleration due to gravity, \( 9.81 \, \text{m/s}^2 \).
